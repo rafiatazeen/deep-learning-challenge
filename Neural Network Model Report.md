@@ -50,6 +50,7 @@ Three attempts at optimizing the model were made in order to achieve a target pr
 - this attempt achieved a predictive accuracy of 73%
 
 3. Summary
+   
 Overall this neural network model achieved a predictive accuracy of 73% which is lower than the desired 75%. Even with adding more layers and changing the activation functions and increasing epochs the model did not achieve higher accuracy. A different model where the feature variables have been changed and more data added might result in a higher accuracy.
 
 
